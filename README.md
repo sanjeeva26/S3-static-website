@@ -17,15 +17,15 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS.
 
 ### 🏠 Homepage
 
-![Homepage](homepage.png.png)
+![Homepage](images/homepage.png.png)
 
 ### 🧩 Services Section
 
-![Services](images/services.png)
+![Services](images/services.png.png)
 
 ### 🖼️ Gallery Section
 
-![Gallery](images/gallery.png)
+![Gallery](images/gallery.png.png)
 
 ---
 
