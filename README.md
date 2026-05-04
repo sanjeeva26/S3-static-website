@@ -38,7 +38,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS.
 
 ## 🌍 Live Website
 
-👉 http://your-s3-endpoint-url
+👉 http://sanju-bucket26.s3-website.ap-south-2.amazonaws.com
 
 ---
 
