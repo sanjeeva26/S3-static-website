@@ -69,6 +69,5 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Author  https://github.com/sanjeeva26/S3-static-website.git
 
-Your Name
