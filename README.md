@@ -17,7 +17,7 @@ The website is built using HTML, CSS, and JavaScript and deployed on AWS.
 
 ### 🏠 Homepage
 
-![Homepage](images/homepage.png)
+![Homepage](homepage.png.png)
 
 ### 🧩 Services Section
 
